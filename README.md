@@ -2,7 +2,7 @@
 
 Multi-Page Website for Raja Surf School - a Surf School in South Sri Lanka
 
-[https://surfineer.github.io/rajasurfschool/](https://surfineer.github.io/rajasurfschool/)
+[https://riascho.github.io/rajasurfschool/](https://riascho.github.io/rajasurfschool/)
 
 ## Planned updates
 
